@@ -4,8 +4,8 @@
     I build intelligent, end-to-end systems that solve complex problems by rapidly prototyping and integrating cutting-edge AI.
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/manojmurari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:manojmurari771@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/manojmurari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:manojmurari357@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
 
@@ -33,30 +33,31 @@
 
 **AI & Machine Learning** <br/>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/ChromaDB-5A16E4?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=plastic&logo=google&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5A16E4?style=plastic" alt="ChromaDB"/>
 </p>
 
 **Frontend & Web** <br/>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
 **Backend & Database** <br/>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
 ---
 <div align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=manoj-murari&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Manoj's GitHub Stats"/>
 </div>
