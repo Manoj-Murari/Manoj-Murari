@@ -24,7 +24,7 @@
 | Project                                               | Description                                                                                                                           | Core Technologies                                      |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | 🛠️ **[Context Crafter](https://github.com/Manoj-Murari/Context-Crafter)** | A developer tool that intelligently packages an entire codebase into a context-perfect prompt for any LLM, directly from the browser. | `React` `TypeScript` `Vite` `TailwindCSS` `Chrome Extension` |
-| 🤖 **[Project Mini](https://github.com/Manoj-Murari/project-mini)** | A framework for building autonomous AI agents that can see, read, and interact with the web to perform complex tasks.       | `Gemini Pro Vision` `Selenium` `Firebase` `Flask`      |
+| 🤖 **[Project Mini](https://github.com/Manoj-Murari/AI-Web-Assistant)** | A framework for building autonomous AI agents that can see, read, and interact with the web to perform complex tasks.       | `Gemini Pro Vision` `Selenium` `Firebase` `Flask`      |
 | 📈 **[CodeGrapher](https://github.com/Manoj-Murari/CodeGrapher)** | A suite of tools that uses tree-sitter to parse source code into a graph, enabling deep structural analysis and AI-driven insights. | `Tree-sitter` `Python` `ChromaDB` `LLM Integration`     |
 
 ---
