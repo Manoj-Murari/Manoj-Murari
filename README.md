@@ -14,7 +14,7 @@
 ### 🌱 What I'm Focused On Now
 
 -   🚀 **Launching & Scaling [Context Crafter](https://github.com/Manoj-Murari/Context-Crafter):** Taking my new developer tool from an open-source project to a full-fledged product. The goal is to help developers seamlessly bridge their codebases with Large Language Models.
--   🔬 **Exploring Autonomous Agents:** Building new prototypes for **[Project Mini](https://github.com/Manoj-Murari/project-mini)**, focused on giving agents more complex, multi-step reasoning capabilities for web automation.
+-   🔬 **Exploring Autonomous Agents:** Building new prototypes for **[Project Mini](https://github.com/Manoj-Murari/AI-Web-Assistant)**, focused on giving agents more complex, multi-step reasoning capabilities for web automation.
 -   ✍️ **Deep Diving into Code Analysis:** Extending the capabilities of **[CodeGrapher](https://github.com/Manoj-Murari/CodeGrapher)** to generate automated security and performance audits using AI.
 
 ---
